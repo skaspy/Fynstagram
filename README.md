@@ -3,7 +3,7 @@ An German educational computer game about data privacy and identity theft in soc
 
 ## Requirements
 ### Users
-You have to have a Java Runtime Environment (JRE) installed on your OS (Windows/Mac/Linux).
+You have to have a current Java Runtime Environment (JRE) installed on your OS (Windows/Mac/Linux).
 
 ### Developers
 You need to have Java 8 (JDK) or higher installed on your OS.
