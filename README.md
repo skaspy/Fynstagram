@@ -11,6 +11,7 @@ You have to have a current Java Runtime Environment (JRE) installed on your OS (
 * The project was developed with IntelliJ IDEA.
 
 ## Acknowledgement
-This project is based on [Engine Alpha](https://engine-alpha.org), an easy to use game engine coded in Java. Thanks go out to the developers of Engine Alpha!
+This project relies on [Engine Alpha](https://engine-alpha.org), an easy to use game engine coded in Java mainly for educational purposes. Thanks go out to the developers!
 
 ## Contributions
+Thank you for considering contributing to Fynstergram. Just create a pull request or contact [JonRandom](https://github.com/JonRandom) or [me](mailto:bee.coding@gmx.de).
