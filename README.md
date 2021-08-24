@@ -8,7 +8,8 @@ You have to have a current Java Runtime Environment (JRE) installed on your OS (
 ### Developers
 * You need to have Java 8 (JDK) or higher installed on your OS.
 * The game uses the [Engine Alpha](https://engine-alpha.org) - an open source game engine developed for educational purposes.
-* The project was developed with IntelliJ IDEA.
+* Obstacles and collision detection are handled by 2D collision maps.
+* Dialogues are managed by JSON files.
 
 ## Acknowledgement
 This project relies on [Engine Alpha](https://engine-alpha.org), an easy to use game engine coded in Java mainly for educational purposes. Thanks go out to the developers!
