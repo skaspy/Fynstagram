@@ -1,5 +1,5 @@
 # Fynstergram
-Fynstergram is a German educational computer game about data privacy and identity theft in social media networks. It was created and developed by the P-Seminar Informatik 2019/21 at Wirsberg-Gymnasium Würzburg.
+Fynstergram is a German educational computer game about data privacy and identity theft in social media networks. It was created and developed by the [P-Seminar Informatik 2019/21](https://old.wirsberg-gymnasium.de/informatik/pseminar1921) at Wirsberg-Gymnasium Würzburg.
 
 ## Requirements
 ### Users
