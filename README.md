@@ -3,8 +3,8 @@ Fynstergram is a German educational computer game about data privacy and identit
 
 ## Requirements
 ### Users
-You have to have a current Java Runtime Environment (JRE) installed on your OS (Windows/Mac/Linux) to be able to run the game.
-You find the download and illustrated instructions on the [project page](https://old.wirsberg-gymnasium.de/informatik/pseminar1921).
+To be able to run the game, you have to have a current Java Runtime Environment (JRE) installed on your OS (Windows/Mac/Linux).
+You find the download and illustrated instructions in German on the [project page](https://old.wirsberg-gymnasium.de/informatik/pseminar1921).
 
 ## Developers
 ### Good to know
