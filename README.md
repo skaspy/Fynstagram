@@ -1,3 +1,11 @@
+<div align="center">
+
+![RepoSize](https://img.shields.io/github/repo-size/skaspy/Fynstergram)
+![TotalLines](https://img.shields.io/tokei/lines/github/skaspy/Fynstergram)  
+![Java](https://img.shields.io/badge/language-Java%208-orange)
+
+</div>
+
 # Fynstergram
 Fynstergram is a German educational computer game about data privacy and identity theft in social media networks. It was created and developed by the [P-Seminar Informatik 2019/21](https://old.wirsberg-gymnasium.de/informatik/pseminar1921) at Wirsberg-Gymnasium Würzburg.
 
