@@ -9,6 +9,8 @@
 # Fynstergram
 Fynstergram is a German educational computer game about data privacy and identity theft in social media networks. It was created and developed by the [P-Seminar Informatik 2019/21](https://old.wirsberg-gymnasium.de/informatik/pseminar1921) at Wirsberg-Gymnasium Würzburg.
 
+![screenshot](https://github.com/skaspy/Fynstergram/blob/main/Assets/StartingScreen/StartbilschirmOHNEButtonsundTitel.png)
+
 ## Requirements
 ### Users
 To be able to run the game, you have to have a current Java Runtime Environment (JRE) installed on your OS (Windows/Mac/Linux).
